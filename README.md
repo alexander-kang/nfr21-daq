@@ -1,5 +1,4 @@
 # NFR21's data acquisition system
-=================================
 
 Repository Contents
 -------------------
